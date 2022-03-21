@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning TypeScript, React.js, Vue.js
 
 Get in touch:
-- fightm9@gmail.comcom
+- fightm9@gmail.com
