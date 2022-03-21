@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FightM9
+- 👋 Hi, I’m Erik
 - 👀 I’m interested in frontend and web technology
 - 🌱 I’m currently learning TypeScript, React.js, Vue.js
 
