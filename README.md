@@ -40,17 +40,14 @@
     <img src="https://img.shields.io/badge/React_Router-161E2C?style=for-the-badge&logo=react-router&logoColor=3068DB" alt="React Redux" style="border-radius:15px"/>
      <img src="https://img.shields.io/badge/React_Redux-161E2C?style=for-the-badge&logo=redux&logoColor=3068DB" alt="React Redux" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-161E2C?style=for-the-badge&logo=html5&logoColor=3068DB" alt="HTML5" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS3-161E2C?style=for-the-badge&logo=css3&logoColor=3068DB" alt="CSS3" style="border-radius:15px"/>
+    <br/><img src="https://img.shields.io/badge/CSS3-161E2C?style=for-the-badge&logo=css3&logoColor=3068DB" alt="CSS3" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-161E2C.svg?style=for-the-badge&logo=git&logoColor=3068DB" alt="Git" style="border-radius:15px"/>
-    <br/>
     <img src="https://img.shields.io/badge/Markdown-161E2C?style=for-the-badge&logo=markdown&logoColor=3068DB" alt="Markdown" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Bootstrap-161E2C?style=for-the-badge&logo=bootstrap&logoColor=3068DB" alt="Bootstrap" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/MUI-161E2C?style=for-the-badge&logo=mui&logoColor=3068DB" alt="MUI" style="border-radius:15px"/>
+    <br/><img src="https://img.shields.io/badge/MUI-161E2C?style=for-the-badge&logo=mui&logoColor=3068DB" alt="MUI" style="border-radius:15px"/>
      <img src="https://img.shields.io/badge/Gulp-161E2C?style=for-the-badge&logo=gulp&logoColor=3068DB" alt="gulp" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Webpack-161E2C?style=for-the-badge&logo=webpack&logoColor=3068DB" alt="Webpack" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Browser_API-161E2C?style=for-the-badge&logo=google-chrome&logoColor=3068DB" alt="Google Chrome" style="border-radius:15px"/>
-
-
 
 <br><br>
 
@@ -60,10 +57,11 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FightM9&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=161E2C&title_color=3068DB&icon_color=3068DB&text_color=ffffff&count_private=true"  alt=""/>
 </div>
-
+<br/>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=FightM9&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161E2C&title_color=3068DB&icon_color=3068DB&text_color=ffffff&count_private=true"  alt=""/>
 </div>
+<br/>
 
 <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FightM9&theme=gruvbox_duo&background=161E2C&hide_border=true&ring=3068DB&currStreakLabel=3068DB&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=3068DB&text_color=ffffff&count_private=true"  alt=""/>
