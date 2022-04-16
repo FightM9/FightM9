@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    All of my projects are available at <a href="https://github.com/FightM9/" target="_follow" title="parsa firoozi">github.com/FightM9/</a>
+    All of my projects are available at <a href="https://github.com/FightM9?tab=repositories" target="_follow" title="parsa firoozi">github.com/FightM9/</a>
 </p>
 
 <p align="center">
